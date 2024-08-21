@@ -41,9 +41,10 @@ This public repository is a collection of projects that are part of the Ronin ec
   "categories": ["game", "finance"],
   "email": "(optional) myemail@mail.com",
   "social": {
-    "twitter": "(optional) https://twitter.com/ID",
+    "x": "(optional) https://x.com/ID",
     "telegram": "(optional) https://t.me/ID",
-    "discord": "(optional) https://discord.gg/ID"
+    "discord": "(optional) https://discord.gg/ID",
+    "facebook" : "(optional) https://www.facebook.com/ID"
   }
 }
 ```
