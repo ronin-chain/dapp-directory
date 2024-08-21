@@ -1,0 +1,87 @@
+{
+  "name": "Axie Infinity",
+  "description": "Axie Infinity is a virtual world filled with cute, formidable creatures known as Axies. Axies can be battled, bred, collected, and even used to earn resources & collectibles that can be traded on an open marketplace. Axie was designed to introduce the world to an exciting new technology called Blockchain, through a fun, nostalgic, & charming game.",
+  "websites":[
+    {
+      "url": "https://axieinfinity.com/",
+      "description":"Discover the groundbreaking world of blockchain gaming with Axie Infinity."
+    },
+    {
+      "url": "https://app.axieinfinity.com",
+      "description":"App.Axie is a central hub for the Axie Infinity community, offering tools and features to enhance gameplay and user experience."
+    },
+    {
+      "url": "https://support.axieinfinity.com",
+      "description":"Axie Infinity support website."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x32950db2a7164ae833121501c797d79e7b79d74c",
+      "label": "Axie Proxy",
+      "description": "Proxy contract for the Axie NFTs"
+    },
+    {
+      "address": "0xfff9ce5f71ca6178d3beecedb61e7eff1602950e",
+      "label": "Marketplace Gateway V2",
+      "description": "Proxy contract to settle marketplace purchases"
+    },
+    {
+      "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+      "label": "Smooth Love Potion (SLP)",
+      "description": "ERC20 token used for breeding Axies"
+    },
+    {
+      "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+      "label": "Axie Infinity Shard (AXS)",
+      "description": "Governance token"
+    },
+    {
+      "address": "0x3e0674b1ddc84b0cfd9d773bb2ce23fe8f445de3",
+      "label": "GachaMachineProxy",
+      "description": "Proxy contract for redeeming slips"
+    },
+    {
+      "address": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+      "label": "Axie Community Treasury",
+      "description": "Axie Treasury Multisig Wallet"
+    },
+    {
+      "address": "0x36b628e771b0ca12a135e0a7b8e0394f99dce95b",
+      "label": "Portal",
+      "description": "Proxy contract to deposit and withdraw tokens to/from the game"
+    },
+    {
+      "address": "0x8c811e3c958e190f5ec15fb376533a3398620500",
+      "label": "Axie Land",
+      "description": "Axie Land NFT Proxy"
+    },
+    {
+      "address": "0x814a9c959a3ef6ca44b5e2349e3bba9845393947",
+      "label": "Axie Charm",
+      "description": "Axie Charm Erc1155 Proxy"
+    },
+    {
+      "address": "0xc25970724f032af21d801978c73653c440cf787c",
+      "label": "Axie Rune",
+      "description": "Axie Rune Erc1155 Proxy"
+    },
+    {
+      "address": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+      "label": "Axie Material",
+      "description": "Axie Material Erc1155 Proxy"
+    },
+    {
+      "address": "0x737b80335a9396a8658405d7adcbc57343ff0558",
+      "label": "Axie Consumable",
+      "description": "Axie Consumable Erc1155 Proxy"
+    }
+  ],
+  "categories": ["game"],
+  "email": "hello@axieinfinity.com",
+  "social": {
+    "x": "https://x.com/AxieInfinity",
+    "discord": "https://discord.gg/axie",
+    "facebook": "https://www.facebook.com/AxieInfinity"
+  }
+}
