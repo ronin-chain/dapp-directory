@@ -1,1 +1,1 @@
-# ronin-ecosystem-projects
+# Ronin Ecosystem Projects
