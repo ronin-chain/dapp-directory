@@ -1,6 +1,6 @@
 {
   "name": "RNS.Rest",
-  "description": "A simple rest API for the Ronin Name Service",
+  "description": "A simple rest API wrapper for the Ronin Name Service",
   "websites": [
     {
       "url": "https://rns.rest",
