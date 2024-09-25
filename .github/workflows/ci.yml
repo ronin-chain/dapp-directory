@@ -17,7 +17,7 @@ permissions:
 jobs:
   check:
     name: "Coding Chores"
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -29,7 +29,6 @@ jobs:
       - name: "Automated Tests"
         uses: wehmoen-dev/ronin-buddy@v1.2.3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
           app_installation_id: ${{ secrets.BUDDY_INSTALLATION_ID }}
           app_private_key: ${{ secrets.BUDDY_PRIVATE_KEY }}
