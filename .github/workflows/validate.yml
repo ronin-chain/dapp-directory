@@ -3,6 +3,9 @@ name: Ronin Ecosystem Validator
 on:
   pull_request_target:
     branches: [master]
+    paths:
+      - 'projects/*/data.json'
+      - 'projects/*/logo.png'
 
 permissions:
   contents: write
