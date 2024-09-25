@@ -27,7 +27,7 @@ jobs:
           fetch-depth: 0
 
       - name: "Automated Tests"
-        uses: wehmoen-dev/ronin-buddy@v1.2.3
+        uses: wehmoen-dev/ronin-buddy@v1.2.4
         with:
           slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
           app_installation_id: ${{ secrets.BUDDY_INSTALLATION_ID }}
