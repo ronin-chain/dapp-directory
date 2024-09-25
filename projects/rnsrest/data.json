@@ -1,0 +1,14 @@
+{
+  "name": "RNS.Rest",
+  "description": "A simple rest API for the Ronin Name Service",
+  "websites": [
+    {
+      "url": "https://rns.rest",
+      "description": "RNS.Rest API"
+    }
+  ],
+  "categories": [
+    "tool",
+    "other"
+  ]
+}
