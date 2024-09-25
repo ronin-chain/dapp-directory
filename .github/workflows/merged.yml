@@ -4,6 +4,9 @@ on:
   pull_request_target:
     types: [ closed ]
     branches: [ master ]
+    paths:
+      - 'projects/*/data.json'
+      - 'projects/*/logo.png'
 
 permissions:
   contents: write
