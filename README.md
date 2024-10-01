@@ -12,6 +12,10 @@ This public repository is a collection of projects that are part of the Ronin ec
 6. A GitHub workflow will automatically check the validity of the changed / added files, please follow the bot's instructions if the validation fails.
 7. After the validation passed, a team member will merge the PR.
 
+## Use Case & Best Practices
+
+Contract addresses for your project can be queried by analytics/indexing sites. Ensure that only relavant contracts are submitted & sufficiently labelled.
+
 ### data.json format
 
 ```json
