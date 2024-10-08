@@ -1,0 +1,66 @@
+{
+  "name": "Katana",
+  "description": "Katana is a decentralized exchange on the Ronin network.",
+  "websites": [
+    {
+      "url": "https://app.roninchain.com/swap",
+      "description": "Swap interface"
+    },
+    {
+      "url": "https://app.roninchain.com/liquidity",
+      "description": "Liquidity management page"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xb255d6a720bb7c39fee173ce22113397119cb930",
+      "name": "Katana Factory",
+      "description": "The Katana V2 Factory that creates new Katana V2 pools"
+    },
+    {
+      "address": "0xc05afc8c9353c1dd5f872eccfacd60fd5a2a9ac7",
+      "name": "Permissioned Router",
+      "description": "The current router for swaps and add/remove liquidity on V2 pools"
+    },
+    {
+      "address": "0x77f96cf7b98b963fb8a9b84787806d396d953b2b",
+      "name": "Affiliate Router",
+      "description": "Like Permissioned Router but with affiliate fees"
+    },
+    {
+      "address": "0x2c1726346d83cbf848bd3c2b208ec70d32a9e44a",
+      "name": "Katana Governance",
+      "description": "The Katana Governance contract manages the DEX"
+    },
+    {
+      "address": "0x14327fa6a4027d8f08c0a1b7feddd178156e9527",
+      "name": "RON-AXS LP Staking Pool (legacy)",
+      "description": "RON-AXS farm pool"
+    },
+    {
+      "address": "0x487671acdea3745b6dac3ae8d1757b44a04bfe8a",
+      "name": "AXS-WETH LP Staking Pool (legacy)",
+      "description": "AXS-WETH farm pool"
+    },
+    {
+      "address": "0xb9072cec557528f81dd25dc474d4d69564956e1e",
+      "name": "RON-WETH LP Staking Pool (legacy)",
+      "description": "RON-WETH farm pool"
+    },
+    {
+      "address": "0xd4640c26c1a31cd632d8ae1a96fe5ac135d1eb52",
+      "name": "SLP-WETH LP Staking Pool (legacy)",
+      "description": "SLP-WETH farm pool"
+    },
+    {
+      "address": "0x4e2d6466a53444248272b913c105e9281ec266d8",
+      "name": "RON-SLP LP Staking Pool (legacy)",
+      "description": "RON-SLP farm pool"
+    },
+    {
+      "address": "0xae1e5cd7360bb7d66e8a01febef8441902aeefea",
+      "name": "ERC20 Staking Proxy Factory Proxy",
+      "description": "The factory to create new farm pools"
+    }
+  ]
+}
