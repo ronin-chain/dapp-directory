@@ -63,5 +63,5 @@
       "description": "The factory to create new farm pools"
     }
   ],
-  "categories": ["dex", "defi", "exchange", "finance"]
+  "categories": ["finance"]
 }
