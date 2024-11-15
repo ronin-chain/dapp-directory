@@ -1,6 +1,9 @@
 # Ronin Ecosystem Projects
 
-This public repository is a collection of projects that are part of the Ronin ecosystem.
+This public repository serves as a collection of information for builders within the Ronin ecosystem, with the following use cases:
+* __Single Source of Information__ -  Key information from Ronin builders is consolidated in this repository. Analytics and tracking sites can integrate the repository into their workflows permissionlessly.
+* __Tracking Developer Metrics__ - A tracker for developer metrics within the Ronin ecosystem.
+* __Ecosystem Page__ - Project information from the repository will be used to update the Ronin Website - https://roninchain.com/ecosystem
 
 ## How to contribute
 
