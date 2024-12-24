@@ -12,8 +12,7 @@ This public repository serves as a collection of information for builders within
 3. Add your logo in PNG format `logo.png`. (Less than 2 MB, 1:1 ratio, min 256x256 and max 1024x1024 px size)
 4. Create `data.json`, using the format below.
 5. Open a Pull Request from the fork to this repository.
-6. A GitHub workflow will automatically check the validity of the changed / added files, please follow the bot's instructions if the validation fails.
-7. After the validation passed, a team member will merge the PR.
+6. After the validation passed, a team member will merge the PR.
 
 ## Use Case & Best Practices
 
