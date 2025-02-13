@@ -1,1 +1,31 @@
+{
+  "name": "Bondit.meme",
+  "description": "Advertise your favorite meme coins for free. Only http://Tama.meme (Ronin network) meme coins accepted!",
+  "websites":[
+    {
+      "url": "https://bondit.meme",
+      "description":"Advertise Your Favorite Coins!
+STEP 1: Login with your RONIN address.
+STEP 2: Request BONDIT.MEME to check the balance of your chosen coin.
+STEP 3: BONDIT.MEME will verify the coin balance within 24 hours.
+STEP 4: If you hold the coin during the verification period, you will earn points:
+10,000 - 100,000 COINS: 1 POINT
+100,000 - 1,000,000 COINS: 2 POINTS
+1,000,000+ COINS: 3 POINTS
+STEP 5: Use your points to submit a new token or extend the listing time for an existing one.
 
+The service uses ronin address from ronin wallet login, to login to the service. There is no smart contract or any other interaction.
+Token balance is fetched by https://api.roninchain.com/rpc
+I need verified status so people can login to the website without any fear that it will harm them."
+    }
+  ],
+  "contracts": [
+  ],
+  "categories": [
+    "tool"
+  ],
+  "email": "(optional) bonditmeme@gmail.com",
+  "social": {
+    "x": "https://x.com/bonditmeme"
+  }
+}
