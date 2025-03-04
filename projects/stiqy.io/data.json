@@ -1,0 +1,26 @@
+{
+  "name": "Stiqy.io",
+  "description": "wholistic Web3 Marketing and Community Solution built for Web3 Marketers and Community Managers! With Stiqy, you can create customizable web3 marketing campaigns that solve growth, marketing, and community challenges.",
+  "websites":[
+    {
+      "url": "https://stiqy.io/",
+      "description":"Discover the groundbreaking world of blockchain marketing with Stiqy.io."
+    },
+    {
+      "url": "https://app.stiqy.io",
+      "description":"This is the central hub for all communities and campaigns hosted by Stiqy.io."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x0a32b611e56153703a66f9d5b7bb7d1c83df09e9",
+      "label": "Stiqy Ronin Lucky Draw Contract",
+      "description": "Allows users to participate in the Ronin Lucky Draw via smart contract"
+    }
+  ],
+  "categories": ["other", "tool"],
+  "email": "alvin.decruz@avocadoguild.com",
+  "social": {
+    "x": "https://x.com/stiqy_io"
+  }
+}
