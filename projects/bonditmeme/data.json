@@ -1,0 +1,18 @@
+{
+  "name": "Bondit.meme",
+  "description": "Bondit.meme is an advertising platform where users can request balance checks for listed tokens of their choice. The platform verifies holdings within 24 hours using Ronin RPC. If users hold the specified tokens, they earn points proportional to their balance. These points can be used to list new tokens for points earning opportunities or extend the listing duration of existing tokens.",
+  "websites":[
+    {
+      "url": "https://bondit.meme",
+      "description":"Advertising service for tama.meme ronin network meme coins."
+    }
+  ],
+  "contracts" : [],
+  "categories": [
+    "advertising", "community"
+  ],
+  "email": "bonditmeme@gmail.com",
+  "social": {
+    "x": "https://x.com/bonditmeme"
+  }
+}
