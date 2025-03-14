@@ -1,4 +1,4 @@
-# Ronin Ecosystem Projects
+# Ronin dApp Directory
 
 This public repository serves as a collection of information for builders within the Ronin ecosystem, with the following use cases:
 * __Single Source of Information__ -  Key information from Ronin builders is consolidated in this repository. Analytics and tracking sites can integrate the repository into their workflows permissionlessly.
