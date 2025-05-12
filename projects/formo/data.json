@@ -1,0 +1,31 @@
+{
+  "name": "Formo",
+  "description": "Formo is a web3 product analytics and data platform that helps crypto teams measure what matters and make impactful decisions with data. Formo makes it easy to digest web3 data, streamlining data collection, processing, and analysis for data-driven product teams. Unify offchain & onchain data with web3-native product analytics to get full onchain attribution. Understand who your users are and how they engage with your app with powerful wallet intelligence.",
+  "websites":[
+    {
+      "url": "https://formo.so/",
+      "description":"Discover the groundbreaking world of blockchain gaming with Axie Infinity."
+    },
+    {
+      "url": "https://app.formo.so",
+      "description":"Get started with the Formo data platform."
+    },
+    {
+      "url": "https://docs.formo.so",
+      "description":"Formo documentation."
+    },
+    {
+      "url": "https://formo.so/support",
+      "description":"Get support from the Formo team."
+    }
+  ],
+  "contracts": [],
+  "categories": ["infra", "tools", "data", "analytics"],
+  "email": "support@formo.so",
+  "social": {
+    "x": "https://x.com/getformo",
+    "linkedin": "https://www.linkedin.com/company/getformo/",
+    "slack": "https://formo.so/slack",
+    "github": "https://github.com/getformo"
+  }
+}
