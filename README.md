@@ -49,7 +49,10 @@ Contract addresses for your project can be queried by analytics/indexing sites. 
   "categories": [
     "bot",
     "dao",
-    "finance",
+    "defi",
+    "security",
+    "infra",
+    "social",
     "game", 
     "nft",
     "tool",
