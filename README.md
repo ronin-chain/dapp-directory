@@ -56,6 +56,7 @@ Contract addresses for your project can be queried by analytics/indexing sites. 
     "game", 
     "nft",
     "tool",
+    "marketplace",
     "other"
   ],
   "email": "(optional) myemail@mail.com",
