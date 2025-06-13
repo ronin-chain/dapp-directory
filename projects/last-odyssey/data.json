@@ -1,0 +1,45 @@
+{
+  "name": "Last Odyssey",
+  "description": "Last Odyssey is a groundbreaking  MMORTS 5X x Real-time x Conquer to Earn x Strategy  blockchain game. \n\nLast Odyssey is a groundbreaking blockchain 5X (e⚔️plore, e⚔️pand, e⚔️ploit, e⚔️terminate, e⚔️change) that merges traditional ‘MMORTS’ (massively multiplayer online real-time strategy) with the web3 elements. Build your kingdom, expand territories, recruit heroes, and face powerful enemies in the world of Middangeard. Fight for survival, power, and the chance to reign supreme across the continent of Middangeard. \n\nLast Odyssey is built by Everest Venture Group (EVG), a 300-people venture studio at the heart of Asia. The game is strategically backed by OKX Ventures, Animoca Brands, Coin98 Ventures, Selini Capital, and Summer Capital.",
+  "websites":[
+    {
+      "url": "https://lastodyssey.io",
+      "description":"Unite, fight, and conquer in Last Odyssey, a social Web3 game with NFT Lands and Heroes. Build, recruit, and strategize in the epic war on the continent of Middangeard."
+    },
+    {
+      "url": "https://everestventuresgroup.notion.site/Last-Odyssey-Game-Guide-175d85a7219c80ef8c57e27f3c5205de",
+      "description":"Last Odyssey Documentation"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xc45c9811E79471AdC25AEa3E1B0432ae80F212ab",
+      "label": "Awakened Hero",
+      "description": "Awakened Hero contract address"
+    },
+    {
+      "address": "0xeC18996Fe6C79824Fc2ef12b14251581c45AC9c9",
+      "label": "Last Odyssey Land",
+      "description": "Last Odyssey Land contract address"
+    },
+    {
+      "address": "0x8aFba897C795504F2Dc6BBac72565911cB939bCc",
+      "label": "Last Odyssey MysteryBox",
+      "description": "Last Odyssey MysteryBox contract address"
+    }
+  ],
+  "categories": [
+    "game",
+    "nft",
+    "defi",
+    "social",
+    "marketplace",
+    "AI"
+  ],
+  "social": {
+    "x": "https://x.com/LastOdyssey_io",
+    "discord": "https://discord.com/invite/lastodysseyhq",
+    "medium" : "https://medium.com/@lastodyssey",
+    "youtube" : "https://www.youtube.com/@lastodyssey_io",
+  }
+}
