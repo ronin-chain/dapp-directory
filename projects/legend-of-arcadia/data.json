@@ -1,0 +1,45 @@
+{
+  "name": "Legend of Arcadia",
+  "description": "a multi-chain, free-to-play, and play-to-earn casual strategy card game.",
+  "websites":[
+    {
+      "url": "https://legendofarcadia.io/",
+      "description":"Come and explore the world of Gacha Heroes!"
+    },
+    {
+      "url": "https://ronin.legendofarcadia.io/",
+      "description":"Get your Gacha ball."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x0e5a73143009b00c363455df882371b05ed80671",
+      "label": "ARCA",
+      "description": "ERC20 token for Legend of Arcadia"
+    },
+    {
+      "address": "0x916357945c62967e6Bf42b55Fbb6DCCdEa2B83b5",
+      "label": "Gacha Hero",
+      "description": "ERC721 NFT for Legend of Arcadia"
+    },
+    {
+      "address": "0x0bD1b7cd4A7027a159D1b968EE8C1F83074A902e",
+      "label": "Gacha Ball",
+      "description": "ERC1155 NFT for Legend of Arcadia"
+    }
+    
+  ],
+  "categories": [
+    "game",
+    "nft",
+    "defi", 
+    "social",
+    "marketplace",
+    "AI"
+  ],
+  "social": {
+    "x": "https://x.com/LegendofArcadia",
+    "telegram": "https://t.me/LegendofArcadia",
+    "discord": "https://discord.com/invite/legendofarcadiaio"
+  }
+}
