@@ -1,0 +1,37 @@
+{
+    "name": "CyberVerse",
+    "description": "A browser-based cyberpunk MMORPG for Web3 punks.",
+    "websites": [
+        {
+            "url": "https://www.cyberversegame.io/",
+            "description": "Official Website of CyberVerse."
+        },
+        {
+            "url": "https://playcyberverse.com/",
+            "description": "Play CyberVerse here."
+        }
+    ],
+    "contracts": [
+        {
+            "address": "0xfc5e0d385f97c8068acd7c4a3b2cd1f5bdea45f2",
+            "label": "CyberVerse - CyberCitizens GEN4",
+            "description": "CyberCitizens are unique, playable NFT characters within CyberVerse game, each featuring unique traits, rarities, and in-game perks."
+        },
+        {
+            "address": "0x462e9f162e0be57ebf3bf1b96f22202394535dce",
+            "label": "Cyber Verse Craftables V0_2",
+            "description": "CyberVerse Tradable Assets is an NFT collection with real in-game value,  unlock perks, boost progress, and own the grind."
+        }
+    ],
+    "categories": [
+        "social",
+        "game",
+        "nft"
+    ],
+    "email": "cyberversegame@mail.com",
+    "social": {
+        "x": "https://x.com/CyberVerseGame",
+        "telegram": "https://t.me/CyberVersegame",
+        "discord": "https://discord.com/invite/cyberversegame"
+    }
+}
