@@ -1,0 +1,44 @@
+{
+  "name": "Kttyworld Games",
+  "description": "KTTY World is a story rich, onchain gaming universe blending strategic idle gameplay with collectible NFT companions. Players explore lore driven missions, earn rewards, and evolve their Tamers and KTTYs in a living ecosystem. Built for longevity, our platform integrates sustainable tokenomics, community governance, and AI enhanced mechanics.",
+  "websites":[
+    {
+      "url": "https://kttyworld.io",
+      "description":"KTTY World"
+    },
+    {
+      "url": "https://www.ktty.world/",
+      "description":"Kttyworld Gaming Solutions"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xb6D64260EDD0049e680150FF49fDe38AF15Cb2c4",
+      "label": "KTTY Staking",
+      "description": "Stake KTTYs to earn rewards and enhance your gameplay experience."
+    },
+    {
+      "address": "0xcd36c37185f80f688a91a9a272c1bf35eb33c6be",
+      "label": "KTTY World Tamers",
+      "description": "Take your first steps as a KTTY Tamer into the magical 3D world of Felysia!"
+    }
+  ],
+  "categories": [
+    "bot",
+    "dao",
+    "defi",
+    "security",
+    "infra",
+    "social",
+    "game", 
+    "nft",
+    "tool",
+    "marketplace",
+    "other"
+  ],
+  "email": "kttyworld@kttyworld.io",
+  "social": {
+    "x": "https://x.com/Kttyworld",
+    "discord": "https://discord.gg/sC3Hv46BKC"
+  }
+}
