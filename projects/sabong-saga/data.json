@@ -1,0 +1,58 @@
+{
+  "name": "Sabong Saga",
+  "description": "Sabong Saga is a blockchain game that merges the excitement of traditional cockfighting with the innovation of Web3. Built on the Ronin Network and backed by the Ronin ecosystem, Sabong Saga lets players collect, breed, battle, and trade digital roosters.",
+  "websites": [
+    {
+      "url": "https://www.sabongsaga.com/",
+      "description": "Collect, breed, and dominate in Sabong Saga, a competitive Web3 cockfighting game. Train your roosters, rise through the ranks, and shape your legacy in the cockpit arena!"
+    },
+    {
+      "url": "https://app.sabongsaga.com/",
+      "description": "dApp where you can craft, rub, breed, and battle your chickens."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xee9436518030616bc315665678738a4348463df4",
+      "label": "Sabong Saga Genesis",
+      "description": "Sabong Saga Genesis Chickens Contract Address (ERC71)"
+    },
+    {
+      "address": "0x322b3d98ddbd589dc2e8dd83659bb069828231e0",
+      "label": "Sabong Saga Legacy",
+      "description": "Sabong Saga Legacy and Ordinary Chickens Contract Address (ERC71)"
+    },
+    {
+      "address": "0xc5da607b372eca2794f5b5452148751c358eb53c",
+      "label": "Sabong Saga Items",
+      "description": "Sabong Saga Feathers and Legendary Feathers Contract Address (ERC1155)"
+    },
+    {
+      "address": "0xac78515ef7d0BB935bc86d4f8cE314038946B52F",
+      "label": "Sabong Saga Resources",
+      "description": "Sabong Saga Resources Contract Address (ERC1155)"
+    },
+    {
+      "address": "0x3c147f3eead0d6875e0b4fd54b071f268ab0fcff",
+      "label": "Sabong Saga Crafting",
+      "description": "A custom contract for crafting items in Sabong Saga."
+    },
+    {
+      "address": "0x89c49f0a4c3f9c6b7bbe690463073f1813821ba6",
+      "label": "Sabong Saga Breeding",
+      "description": "A custom contract for breeding chickens."
+    },
+    {
+      "address": "0xf3508d3bb94ad7ce99ada8c6826420aef44b14a1",
+      "label": "Sabong Saga Daily Feed",
+      "description": "A custom contract for feeding chickens to boost chicken stats for period of time."
+    }
+  ],
+  "email": "sabongsaga@gmail.com",
+  "categories": ["game", "nft", "tool", "marketplace", "social"],
+  "social": {
+    "x": "https://x.com/SabongSaga",
+    "discord": "https://discord.gg/sabongsaga",
+    "youtube": "https://www.youtube.com/@SabongSaga"
+  }
+}
