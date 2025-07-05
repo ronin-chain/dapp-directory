@@ -1,0 +1,35 @@
+{
+  "name": "Planet Horse",
+  "description": "Planet Horse is a pixel-perfect Play-to-Earn horse racing game built on the Ronin Network, combining strategic gameplay, competitive racing, and digital ownership. Players train, evolve, and race NFT horses to earn $PHORSE and $MEDAL, the core tokens powering upgrades, item trading, and leaderboard progression.",
+  "websites":[
+    {
+      "url": "https://planethorse.io",
+      "description":"Planet Horse Website"
+    },
+    {
+      "url": "https://docs.planethorse.io",
+      "description":"Planet Horse Documentation"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x7f8e304eb2894e57f8b930000f396319729bd1f1",
+      "label": "Planet Horse Token",
+      "description": "Planet Horse ERC20 token, PHORSE fuels Planet Horse Economy."
+    },
+    {
+      "address": "0x66eeb20a1957c4b3743ecad19d0c2dbcf56b683f",
+      "label": "Planet Horse - Origin Horses",
+      "description": "Origin Horses NFT - Origin Horses are a unique breed with higher stats and growth potential."
+    }
+  ],
+  "categories": [
+    "social",
+    "game", 
+    "nft"
+  ],
+  "social": {
+    "x": "https://x.com/PlanetHorseGame",
+    "discord": "https://discord.gg/planethorse"
+  }
+}
