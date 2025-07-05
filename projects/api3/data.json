@@ -1,0 +1,32 @@
+{
+  "name": "Api3",
+  "description": "Api3 delivers first-party oracles that pay you. By connecting real-world data providers directly to smart contracts, ApiPI3 eliminates intermediaries, ensuring unmatched transparency and security. With pioneering mechanisms to recapture Oracle Extractable Value (OEV), Api3 empowers dApps with reliable data while minimizing and reclaiming the value they would otherwise leak to external actors. Api3 is redefining the oracle space by elevating oracles from mere data providers to entities that help builders retain the value they create.",
+  "websites":[
+    {
+      "url": "https://api3.org/",
+      "description":"Oracles that pay you."
+    },
+    {
+      "url": "https://market.api3.org/ronin",
+      "description":"Api3 delivers first-party oracles that pay you — connecting real-world data directly to smart contracts while reclaiming lost value through Oracle Extractable Value (OEV)."
+    },
+    {
+      "url": "https://docs.api3.org/dapps/",
+      "description":"Api3 documentation website."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x2ab9f26E18B64848cd349582ca3B55c2d06f507d",
+      "label": "Api3Server",
+      "description": "Api3ServerV1 serves data feeds."
+    },
+ 
+  ],
+  "categories": ["infra"],
+  "social": {
+    "x": "https://x.com/api3dao",
+    "discord": "https://discord.gg/api3dao",
+    "telegram": "https://t.me/API3DAO"
+  }
+}
