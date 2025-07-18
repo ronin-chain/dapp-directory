@@ -1,0 +1,20 @@
+{
+  "name": "Burncoin",
+  "description": "Burn Coin ($BURN) is a permission-less fully onchain gamified cryptocurrency built on the Ronin Blockchain. $BURN combines mining mechanics, referral incentives, and NFT integration to deliver a play-to-earn and hold-to-earn hybrid experience. Features unique NFT mining system with hash power voting on protocol revenue allocation, monthly halving tokenomics, and LP staking mechanisms to burn token supplies.",
+  "websites": [
+    {
+      "url": "https://burncoin.tech",
+      "description": "Official Burncoin website and platform"
+    },
+    {
+      "url": "https://burncoin.tech/burningpaper",
+      "description": "Burncoin whitepaper - comprehensive project documentation"
+    }
+  ],
+  "contracts": [],
+  "categories": ["game"],
+  "social": {
+    "x": "https://x.com/burncoinronin",
+    "discord": "https://discord.com/invite/burncoin"
+  }
+}
