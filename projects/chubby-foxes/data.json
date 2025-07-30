@@ -1,0 +1,28 @@
+{
+  "name": "Chubby Foxes",
+  "description": "Chubby Foxes is a unique NFT collection featuring adorable, chubby foxes full of personality and vibrant details. Chubby Foxes includes a royalty system that rewards Chubby Foxes stakers, ensuring ongoing value and support for the community. Join the Chubby Foxes family and be part of a growing, rewarding ecosystem.",
+  "websites": [
+    {
+      "url": "https://www.chubbyfoxes.xyz/",
+      "description": "Chubby Foxes Website"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xd39c8d7e107db9a85896eb78e652496977b7f674",
+      "label": "Chubby Foxes NFT",
+      "description": "Be part of Chubby Foxes community!"
+    },
+    {
+      "address": "0x9f5fb26e03d8802d0c15378f9cc027262a22f5aa",
+      "label": "Chubby NFT Staking",
+      "description": "Stake your NFTs to be part of Chubby Foxes royalty system."
+    }
+  ],
+  "categories": ["nft", "game", "tool"],
+  "email": "foxeschubby@gmail.com",
+  "social": {
+    "x": "https://x.com/Chubby_Foxes",
+    "discord": "https://discord.gg/8GVhJchhP2"
+  }
+}
