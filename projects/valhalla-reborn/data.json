@@ -1,0 +1,146 @@
+{
+  "name": "Valhalla Reborn",
+  "description": "Valhalla Reborn is a play‑to‑earn Web3 RPG where players own Warriors, Items, Dragons, and Runestones as NFTs. Choose between PvE Adventure mode—farming items, battling—and the competitive PvP Coliseum for strategic, token‑based combat. Players can earn $RUNIC and $RON by staking, farming, battling, and more, all fully on‑chain on the Ronin Network ecosystem.",
+  "websites": [
+    {
+      "url": "https://valhallareborn.gg/",
+      "description": "Official Valhalla Reborn website: explore gameplay, connect wallets and begin your play‑to‑earn journey."
+    },
+    {
+      "url": "https://docs.valhallareborn.gg/",
+      "description": "Official documentation: in‑depth guides to gameplay mechanics, tokenomics, NFTs, staking, and how to get started."
+    },
+    {
+      "url": "https://blog.valhallareborn.gg",
+      "description": "Valhalla Reborn blog: news, updates, community highlights, and development roadmap insights."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xdf0b859b9d431846dbc66c0ae0de10d8f3c90366",
+      "label": "$RUNIC Token",
+      "description": "Primary token of the Valhalla Reborn ecosystem, used for transactions, rewards, and various in-game utilities."
+    },
+    {
+      "address": "0x124bd2d70e4efc7e3fcffbb85a9aa4492a0de067",
+      "label": "Valhalla Reborn - Warriors",
+      "description": "ERC1155 contract for playable Warrior NFTs, the main characters used in Valhalla Reborn gameplay."
+    },
+    {
+      "address": "0x56f5Dc590b3aD71e9Ebf67cf473e66C9cFa358b2",
+      "label": "Valhalla Reborn - Items",
+      "description": "ERC1155 contract managing all collectible and consumable item NFTs within the game."
+    },
+    {
+      "address": "0x275A414e6004e4D5756fBaC42c628Bb0E51a1013",
+      "label": "Valhalla Reborn - Chests",
+      "description": "ERC1155 contract representing loot chests, the primary source of all other NFTs in Valhalla Reborn."
+    },
+    {
+      "address": "0x24e2056341B25E5F06d28809984FBC5c6A00c78E",
+      "label": "Valhalla Reborn - Runestones",
+      "description": "ERC1155 contract for Runestone NFTs, which apply buffs and enhancements to player accounts."
+    },
+    {
+      "address": "0x653c46B81ACE7f93Ccb1cFC182F9Abb0b285DC67",
+      "label": "Valhalla Reborn - Dragons",
+      "description": "ERC1155 contract for unique Dragon NFTs."
+    },
+    {
+      "address": "0x10fA941c12C716E9930d47F084554bA3c9dfb29C",
+      "label": "Valhalla Reborn - Exchange $RUNIC Pool",
+      "description": "Main $RUNIC pool used to manage player balances, enabling deposits and withdrawals in-game."
+    },
+    {
+      "address": "0x7Ccd2fC28C2A8ad39B6dB22CF15C0D7122EB6974",
+      "label": "Valhalla Reborn - Farm $RUNIC Pool",
+      "description": "Farming pool that distributes $RUNIC rewards to players who participate in yield-generating activities."
+    },
+    {
+      "address": "0xCFC3C11E907f8D9150dbC4D3F36E1b93df73096F",
+      "label": "Valhalla Reborn - PvP $RUNIC Pool",
+      "description": "Pool dedicated to rewarding players with $RUNIC for participating in competitive PvP battles."
+    },
+    {
+      "address": "0xe86FAEfd06dA84ce9f7243bbFa856C645c6D44E9",
+      "label": "Valhalla Reborn - Season $RUNIC Pool",
+      "description": "Pool allocated for seasonal rewards and time-limited competitions using $RUNIC."
+    },
+    {
+      "address": "0xE5F7D223A49e788288F9D05e5413740Eb12407Ce",
+      "label": "Valhalla Reborn - Staking $RUNIC Pool",
+      "description": "Staking pool for players to lock their $RUNIC tokens and earn passive income or benefits."
+    },
+    {
+      "address": "0x25a39242873b853A899eF6C95D6438A96BE6426c",
+      "label": "Valhalla Reborn - Costs $RUNIC Pool",
+      "description": "Operational cost pool used for covering game-related fees and on-chain interactions in $RUNIC."
+    },
+    {
+      "address": "0xe7606A698D3Da779B46de1cAD42dbA52b527d681",
+      "label": "Valhalla Reborn - Reserve $RUNIC Pool",
+      "description": "Strategic reserve pool to support liquidity and economic balance of the $RUNIC token."
+    },
+    {
+      "address": "0x56F51918736147a3D1345DF558F937F5E009d0a3",
+      "label": "Valhalla Reborn - Revenue $RUNIC Pool",
+      "description": "Revenue pool collecting all proceeds generated from in-game transactions, reserved for the team."
+    },
+    {
+      "address": "0x8322d3105802C21699e9Dd003e1b7Ed335713c9b",
+      "label": "Valhalla Reborn - Airdrop $RUNIC Pool",
+      "description": "Pool for distributing free $RUNIC tokens via marketing campaigns, promotions, and community rewards."
+    },
+    {
+      "address": "0xaed8431ebb78b11211188fb6a3d7588611cbbd60",
+      "label": "Valhalla Reborn - Exchange $RON Pool",
+      "description": "Main $RON pool used to store user balances, including deposits and withdrawals in the game."
+    },
+    {
+      "address": "0x5cb7bae5286e14ef84506f2f0c6d9e42da937159",
+      "label": "Valhalla Reborn - Farm $RON Pool",
+      "description": "Farming pool that distributes $RON rewards to players participating in farming activities."
+    },
+    {
+      "address": "0xa4359bfeb847b2ba79405a0a6275fa4e788c10e5",
+      "label": "Valhalla Reborn - PvP $RON Pool",
+      "description": "Pool used to reward players in competitive PvP battles with $RON tokens."
+    },
+    {
+      "address": "0x434438650c9dec3e2bf95a8330c81e6efd91ec55",
+      "label": "Valhalla Reborn - Season $RON Pool",
+      "description": "Seasonal event pool distributing $RON prizes based on performance during limited-time competitions."
+    },
+    {
+      "address": "0x298cd3c76bbdd2de253feefc19d1177214b86ffb",
+      "label": "Valhalla Reborn - Staking $RON Pool",
+      "description": "Pool dedicated to $RON staking, allowing users to earn passive rewards by locking their tokens."
+    },
+    {
+      "address": "0x993a10ae4ba9ea7976f7546b6b830db8fa2fadc8",
+      "label": "Valhalla Reborn - Costs $RON Pool",
+      "description": "Operational costs pool used for handling fees and expenses paid in $RON."
+    },
+    {
+      "address": "0xc0e6cbc12d6f36051c245e9740e0aaf9c4c67a4f",
+      "label": "Valhalla Reborn - Reserve $RON Pool",
+      "description": "Strategic $RON reserve to ensure ecosystem liquidity and economic stability."
+    },
+    {
+      "address": "0xac37b034bf3e2cde4d1da22d0e215402127150df",
+      "label": "Valhalla Reborn - Revenue $RON Pool",
+      "description": "Revenue pool reserved for the Valhalla Reborn team, accumulating operational profits in $RON."
+    },
+    {
+      "address": "0x26b263cf6ab1547d2238f51388a693fbabcd6b63",
+      "label": "Valhalla Reborn - Airdrop $RON Pool",
+      "description": "Dedicated pool for distributing promotional and campaign-based $RON airdrops."
+    }
+  ],
+  "categories": ["game", "nft", "social"],
+  "email": "hello@valhallareborn.gg",
+  "social": {
+    "x": "https://x.com/Valhalla_Reborn",
+    "discord": "https://discord.gg/valhallareborn"
+  }
+}
