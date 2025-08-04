@@ -1,0 +1,49 @@
+{
+  "name": "Primos",
+  "description": "An ecosystem of NFTs, games, and community governance featuring multiple interactive experiences including daily raffles, NFT evolution, material crafting, and check-in rewards.",
+  "websites": [
+    {
+      "url": "https://primos.games",
+      "description": "Main portal - An ecosystem of NFTs, games, and community governance"
+    },
+    {
+      "url": "https://lotto.primos.games",
+      "description": "Primolotto - Participate in daily raffles to win Fire Dust, PRIMOS NFTs, crafting materials, and much more"
+    },
+    {
+      "url": "https://blacksmith.primos.games",
+      "description": "Primos Blacksmith - Use Primateria materials in combination to craft new ones"
+    },
+    {
+      "url": "https://app.primos.games",
+      "description": "Primos Check-In - Rewards NFT holders with daily Fire Dust tokens based on their NFT rarity and consecutive check-in streaks"
+    },
+    {
+      "url": "https://evolution.primos.games",
+      "description": "Primos Evolution - Transform your Primos into more powerful versions with new appearances"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x23924869ff64ab205b3e3be388a373d75de74ebd",
+      "label": "Primos The Stone Age",
+      "description": "Main NFT collection contract for the Primos ecosystem"
+    },
+    {
+      "address": "0xe3a334d6b7681d0151b81964caf6353905e24b1b",
+      "label": "Primos - Primateria",
+      "description": "Primateria is the core resource of Primos, essential for crafting, evolution, and summoning powerful warriors in the Ronin universe"
+    },
+    {
+      "address": "0xaedbe345394ba692680010563eef7507b02215d2",
+      "label": "Primo Lotto V9",
+      "description": "Smart contract for daily raffles and prize distribution"
+    }
+  ],
+  "categories": ["dApp"],
+  "email": "monsalvesergi@gmail.com",
+  "social": {
+    "x": "https://x.com/PrimosWarriors",
+    "discord": "https://discord.gg/jh56E6uC8u"
+  }
+}
