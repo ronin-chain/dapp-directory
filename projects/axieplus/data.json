@@ -1,0 +1,16 @@
+{
+  "name": "AxiePlus",
+  "description": "Specialized tools for Ronin games: leaderboards, marketplace filters, calculators, and utilities.",
+  "websites": [
+    {
+      "url": "https://axieplus.com",
+      "description": "Main site"
+    }
+  ],
+  "contracts": [],
+  "categories": ["tool"],
+  "social": {
+    "x": "https://x.com/AxiePlus",
+    "discord": "https://discord.com/invite/kKVBwtCwUx"
+  }
+}
