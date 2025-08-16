@@ -1,0 +1,44 @@
+{
+  "name": "Ronke Rice Farmers",
+  "description": "Ronke Rice Farmers is a play-to-earn farming game on the Ronin Network where players manage farms, grow rice, and participate in unique mechanics like the Sushi Bar and Rice-to-Ronke economy. Players earn $RICE and $RONKE by farming, staking, burning, and engaging in competitive events. With dynamic tokenomics, seasonal rewards, and fun social leaderboards, Ronke Rice Farmers blends casual gaming with on-chain strategy.",
+  "websites": [
+    {
+      "url": "https://ronkericefarmer.com/",
+      "description": "Official Ronke Rice Farmers website: start your farm, manage resources, and join seasonal competitions."
+    },
+    {
+      "url": "https://ronke-rice-farmers.gitbook.io/landing-page",
+      "description": "Official documentation: detailed gameplay guides, tokenomics, farming strategies, and event information."
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x9049ca10dd4cba0248226b4581443201f8f225c6",
+      "label": "$RICE Token",
+      "description": "Primary in-game currency earned through farming and events, used for buying farmers, Sushi Bar entries, and burns."
+    },
+    {
+      "address": "0xf988f63bf26c3ed3fbf39922149e3e7b1e5c27cb",
+      "label": "$RONKE Token",
+      "description": "Main governance and utility token of the Ronke Rice Farmers ecosystem, used for LP, rewards, and premium features."
+    }
+  ],
+  "categories": [
+    "dao",
+    "defi",
+    "security",
+    "infra",
+    "social",
+    "game",
+    "tool",
+    "other",
+    "Gamefi",
+    "staking"
+  ],
+  
+  "email": "support@ronkericefarm.com",
+  "social": {
+    "x": "https://x.com/RiceFarmerRonke",
+    "discord": "https://discord.gg/ronkericefarm"
+  }
+}
