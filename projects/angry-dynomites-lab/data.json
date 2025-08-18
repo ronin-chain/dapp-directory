@@ -1,0 +1,183 @@
+{
+	"name": "Angry Dynomites Lab",
+	"description": "Angry Dynomites Lab is aiming to revolutionize gaming with an immersive, open economy - a world where you collect, craft, and collaboratively build new realms. In the aftermath of a meteor's impact, dinosaurs emerge as Earth's architects. Craft, build and automate to propel their civilization to new heights. Collaborate with fellow players on monumental construction projects. Ready to reshape the world?",
+	"websites": [
+		{
+			"url": "https://www.angrydynomiteslab.com/craft-world",
+			"description": "Step into a post-meteor world where dinosaurs have become Earth's architects. Collect, craft, and collaborate to build new realms in this player-owned economy."
+		},
+		{
+			"url": "https://voya-games.gitbook.io/voya-games-litepaper/",
+			"description": "VOYA Games is building a player-owned economy powered by blockchain, starting with interconnected titles like Craft World and Project Voyager. Players genuinely influence the in-game economy -resources emerge solely through gameplay, and blockchain ensures ownership and freedom to trade across games."
+		}
+	],
+	"contracts": [
+		{
+			"label": "COIN",
+			"address": "0x7DC167E270D5EF683CEAF4AFCDF2EFBDD667A9A7",
+			"description": "COIN is a community-first utility token at the heart of our player-owned economy. It powers trading across all in-game resources"
+		},
+		{
+			"label": "EARTH",
+			"address": "0xC89384CD2970c916DC75DA8e11524eBE6d77fa07",
+			"description": "EARTH is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "WATER",
+			"address": "0x57A8Eb80d6813AEEEB9c8e770011C016F980d581",
+			"description": "WATER is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "FIRE",
+			"address": "0x0E8Edc6f5CaC5dCaE036Ad77Fc0dE4E72404e2Fb",
+			"description": "FIRE is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "MUD",
+			"address": "0x1Cc30b8fC5d4480b1740B1676E3636fB1270c524",
+			"description": "MUD is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "CLAY",
+			"address": "0xa1Af0dFa0884c7433f82BBa89cB36e5B7b90a5C1",
+			"description": "CLAY is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "SAND",
+			"address": "0xac861e0d31080E3B491747a968Df567F81bC8605",
+			"description": "SAND is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "COPPER",
+			"address": "0x64ac88024E1BcC49e3EE145C165914f58998ec9B",
+			"description": "COPPER is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "SEAWATER",
+			"address": "0x84a162dfA5D818151bd8c8e804DaE8cd96A0E15d",
+			"description": "SEAWATER is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "ALGAE",
+			"address": "0x9aCdDdE6564924042E8acFD5bd137374AF9dfaE5",
+			"description": "ALGAE is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "CERAMICS",
+			"address": "0x581e54c7A521519e98D256d39852e4c214caD697",
+			"description": "CERAMICS is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "OXYGEN",
+			"address": "0xCf2bd4CDDCe432090D6a9725Bec7A6AEd77B41F0",
+			"description": "OXYGEN is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "STONE",
+			"address": "0xe7AD0FD3C832769437cc1240BFFe5Dff94fC9cf1",
+			"description": "STONE is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "HEAT",
+			"address": "0x415363B5c4600AA776B6c39fEd866DEE15179aB8",
+			"description": "HEAT is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "LAVA",
+			"address": "0x78eB25B148995a4Ee373e65e93474Ef0ED0fCC9A",
+			"description": "LAVA is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "GAS",
+			"address": "0x91720484fc3569Af94D5049835048C83A1D32fa2",
+			"description": "GAS is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "CEMENT",
+			"address": "0x04A581CF47Ccc244A5aB715c7A105D63bBcB57CA",
+			"description": "CEMENT is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "GLASS",
+			"address": "0xF7604075a0eD6B4F6537ba2bAb19F1F44f5e7AA4",
+			"description": "GLASS is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "STEAM",
+			"address": "0x5f146dFF3B6a3E89188a3953D621637452BA4407",
+			"description": "STEAM is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "STEEL",
+			"address": "0x798239feE069E2b5b3c58978AEA92A3d0e16950c",
+			"description": "STEEL is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "FUEL",
+			"address": "0x677203f3fCc63fE85A5aBC8E6479A88Deb86717b",
+			"description": "FUEL is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "ACID",
+			"address": "0xcd0c9f170e395CA1aDc16ae9AE8107d50273e2e8",
+			"description": "ACID is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "SULFUR",
+			"address": "0x85120A3d815e95Fb8d68129593084Bf97905f543",
+			"description": "SULFUR is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "ENERGY",
+			"address": "0xA3F0F293aeE7cE8B4a3807bF9Cc07942DA4e51E8",
+			"description": "ENERGY is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "SCREWS",
+			"address": "0xcc34D8E6A6F61358219d8E8A967eD7F191638449",
+			"description": "SCREWS is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "OIL",
+			"address": "0x27908a7052980b7537bCB72757cD59B57D5FAE0B",
+			"description": "OIL is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "PLASTICS",
+			"address": "0x8eaBB6A3a05aF9FB514482a677B12008a2ed6422",
+			"description": "PLASTICS is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "FIBERGLASS",
+			"address": "0xab6B550c661862E637249D55207125EE6AFe0aAA",
+			"description": "FIBERGLASS is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "HYDROGEN",
+			"address": "0xB7d11863D0d9C39764f981A95AB8aF0AEd714C48",
+			"description": "HYDROGEN is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "DYNAMITE",
+			"address": "0x2918938CFde254cC76b68a4f6992927ee779104a",
+			"description": "DYNAMITE is one of over 25 currencies in the ecosystem. They can be crafted in-game or traded for Dyno Coin within the Angry Dynomites Lab ecosystem."
+		},
+		{
+			"label": "Craft World Badges",
+			"address": "0x58000c43cadd84058ec7a589eec9db4d5815e1e7",
+			"description": "Craft World Badges represent achievement badges earned through in-game accomplishments and milestones."
+		}
+	],
+	"categories": [
+		"defi",
+		"social",
+		"game",
+		"Gamefi",
+		"NFT"
+	],
+	"email": "support@voya.games",
+	"social": {
+		"x": "https://x.com/AngryDynomites",
+		"discord": "https://discord.gg/AngryDynomites"
+	}
+}
