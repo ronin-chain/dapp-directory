@@ -1,0 +1,69 @@
+{
+  "name": "Realmwalkers",
+  "description": "Realmwalkers empowers the average user with accessible tools in a bot-saturated market. We provide intuitive solutions like NFT raffles, sniping bots, and trading tools that were previously only available to the tech-savvy. Our ecosystem rewards $REAL holders with passive income while supporting the entire Ronin community with reliable, trustless tools.",
+  "websites": [
+    {
+      "url": "https://realmwalkers.xyz",
+      "description": "Realmwalkers Official Website"
+    },
+    {
+      "url": "https://raffle.realmwalkers.xyz",
+      "description": "NFT Raffle System"
+    },
+    {
+      "url": "https://snipe.realmwalkers.xyz",
+      "description": "NFT Sniping bot for roonin Marketplace"
+    },
+    {
+      "url": "https://trade.realmwalkers.xyz",
+      "description": "Secure pair to pair trade for Ronin Network"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xaf997b85ac9d51969e8eb9fc5b7cdb3fe188771b",
+      "label": "REAL Token",
+      "description": "The $REAL token with 990M total supply, providing fee sharing and tier-based benefits to holders."
+    },
+    {
+      "address": "0xdfda7f48a58618af138cb5c3582b5426bf418d0d",
+      "label": "Raffle Contract",
+      "description": "Raffle contract for NFTs on the Ronin Network"
+    },
+    {
+      "address": "0x1ab1402b64e0920a9939aa28f31a6d08463acd06",
+      "label": "Sniper Contract",
+      "description": "NFT Sniping bot for Ronin Network Marketplace"
+    },
+    {
+      "address": "0x41465944c0c8e468273033f4ddf9cad6b16bd2a3",
+      "label": "Trade Rooms Contract",
+      "description": "Secure pair to pair trade for Ronin Network"
+    },
+    {
+      "address": "0x75ca7ffe6565837dae1e42e6036bb0d8e67ab005",
+      "label": "Jackpots Contract",
+      "description": "Jackpots contract on the Realwalkers raffle page"
+    },
+    {
+      "address": "0xcea52ea2446582c890a6179d90bc44e4da24eb19",
+      "label": "Realmwalkers distribution contract",
+      "description": "Distribution contract for the Realmwalkers ecosystem to all holders of 2.5M+ $REAL" 
+    }
+  ],
+  "categories": [
+    "bot",
+    "defi",
+    "infra",
+    "social",
+    "nft",
+    "tool",
+    "marketplace",
+    "other"
+  ],
+  "email": "contact@realmwalkers.xyz",
+  "social": {
+    "x": "https://x.com/realmwalkersron",
+    "discord": "https://discord.gg/YTuSF5CNgw"
+  }
+}
