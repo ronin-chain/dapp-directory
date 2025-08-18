@@ -1,0 +1,42 @@
+{
+  "name": "Pixiland: Age of Heroes",
+  "description": "Pixiland is a strategy game that combines village building, hero collection and dungeon exploration. Players take on the role of a leader of a community, developing the village, recruiting heroes.",
+  "websites":[
+    {
+      "url": "https://pixiland.app",
+      "description":"Pixiland's website"
+    },
+    {
+      "url": "https://docs.pixiland.app",
+      "description":"Pixiland's Documentation"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xa44658c45b24E4e455BfE8411686eB9015a22F1A",
+      "label": "Daily Check-in Contract Address",
+      "description": "The smart contract address on the blockchain used for the daily check-in feature in the Pixiland game, allowing players to record their attendance each day."
+    },
+    {
+      "address": "0xab2e4048c9386459d28be41dad1f60b523421c60",
+      "label": "In-Game Item Payment Processing Contract",
+      "description": "The smart contract address responsible for processing payments for in-game item purchases in Pixiland, including transaction verification and secure item delivery."
+    },
+    {
+      "address": "0x7107529b3afbd213eec665b612d638d405aa8e15",
+      "label": "Pixiland Genesis Pass NFT Contract",
+      "description": "The smart contract address for the Pixiland Genesis Pass NFT. Players who own this NFT will receive exclusive benefits and special privileges in the Pixiland game."
+    }
+  ],
+  "categories": [
+    "social",
+    "game", 
+    "nft"
+  ],
+  "email": "contact@pixiland.app",
+  "social": {
+    "x": "https://x.com/pixilandsocial",
+    "discord": "https://discord.com/invite/6296HEmxRd",
+    "telegram": "https://t.me/pixilandofficial"
+  }
+}
