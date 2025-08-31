@@ -8,15 +8,14 @@ This public repository serves as a collection of information for builders within
 ## How to contribute
 
 1. Fork this repository,
-2. Create a directory with the name of your project in `/projects`.
-3. Add your logo in PNG format `logo.png`. (Less than 2 MB, 1:1 ratio, min 256x256 and max 1024x1024 px size)
-4. Create `data.json`, using the format below.
-5. Open a Pull Request from the fork to this repository.
-6. After the validation passed, a team member will merge the PR.
+2. Create a directory with the name of your project in `/projects. Add your logo in PNG format `logo.png`. (Less than 2 MB, 1:1 ratio, min 256x256 and max 1024x1024 px size)
+4. Create `data.json`, using the format below 
+5. Open a Pull Request from the fork to this repository 
+6. After the validation passes, a team member will merge the PR.
 
 ## Use Case & Best Practices
 
-Contract addresses for your project can be queried by analytics/indexing sites. Ensure that only relavant contracts are submitted & sufficiently labelled.
+Contract addresses for your project can be queried by analytics/indexing sites. Ensure that only relevant contracts are submitted & sufficiently labelled.
 
 ### data.json format
 
@@ -27,11 +26,11 @@ Contract addresses for your project can be queried by analytics/indexing sites. 
   "websites":[
     {
       "url": "https://project.com",
-      "description":"Website description"
+      "description": "Website description"
     },
     {
       "url": "https://support.project.com",
-      "description":"Website2 description"
+      "description": "Website2 description"
     }
   ],
   "contracts": [
@@ -70,3 +69,5 @@ Contract addresses for your project can be queried by analytics/indexing sites. 
   }
 }
 ```
+<img width="200" height="200" alt="dapperlabs-gTgTeEnZ_400x400" src="https://github.com/user-attachments/assets/1e8afa77-a340-437e-bcd7-39084fb54c51" />
+
