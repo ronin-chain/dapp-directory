@@ -1,0 +1,59 @@
+{
+  "name": "Bitminer",
+  "description": "Bitminer is the ultimate mining simulator where every NFT Miner, Node, Farm, and Validator drives a living onchain economy. Built by the community and fueled by strategy, Bitminer is more than a game it’s a symbol of ambition, collaboration, and the unstoppable pursuit of rewards.",
+  "websites":[
+    {
+      "url": "https://bitminer.dev",
+      "description":"BITMINER"
+    },
+    {
+      "url": "https://play.bitminer.dev/",
+      "description":"Bitminer Gameplay site"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x76f6bb2c6f68440bbfe7648ab8b0bbdfb72d7f72",
+      "label": "Bitminer Game",
+      "description": "Main Bitminer game contract."
+    },
+    {
+      "address": "0x3a880ffc52afc121aad734722db436126a2b7438",
+      "label": "MINER1155",
+      "description": "Bitminer NFT contract."
+    },
+    {
+        "address": "0x524c1f9391651ab8f4d1b19b8b2ad7c86e150ee3",
+        "lable": "MBTC TOKEN",
+        "description": "mBTC Token contract"
+    },
+    {
+        "address": "0x8dfa3c5b91a0d4585e44e82c6a6d47de26b3563e",
+        "lable": "MLTC TOKEN",
+        "description": "mLTC Token contract"
+    },
+    {
+        "address": "0xfc393dc2eb7eb20ba8d25f071f05427077e52ce7",
+        "lable": "MXMR TOKEN",
+        "description": "mXMR Token contract"
+    },
+    {
+        "address": "0x702acd177bdb25345a90b51f2706a05bbf0b6a77",
+        "lable": "MDOGE TOKEN",
+        "description": "mDOGE Token contract"
+    }
+  ],
+  "categories": [
+    "game",
+    "nfts",
+    "defi",
+    "mining",
+    "marketplace",
+    "other"
+  ],
+  "email": "contact@bitminer.dev",
+  "social": {
+    "x": "https://x.com/0xbitminer",
+    "discord": "https://discord.gg/bitminer"
+  }
+}
