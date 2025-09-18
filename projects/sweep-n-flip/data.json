@@ -1,0 +1,34 @@
+{
+  "name": "Sweep n' Flip",
+  "description": "Cross-chain NFT DEX",
+  "websites":[
+    {
+      "url": "https://www.sweepnflip.io/",
+      "description":"Cross-chain NFT DEX"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "To be deployed",
+      "label": "DEX Factory",
+      "description": "Short contract description"
+    },
+    {
+      "address": "To be deployed..",
+      "label": "DEX Router",
+      "description": "Short contract description"
+    }
+  ],
+  "categories": [
+    "defi", 
+    "nft",
+    "marketplace",
+    "other"
+  ],
+  "email": "contact@sweepnflip.io",
+  "social": {
+    "x": "https://x.com/SweepnFlip",
+    "discord": "https://discord.gg/YuvVsCk8e6",
+    "linkedin" : "https://www.linkedin.com/company/sweep-n-flip/"
+  }
+}
