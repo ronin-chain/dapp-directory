@@ -1,0 +1,20 @@
+{
+  "name": "dRPC",
+  "description": "AI-powered RPC infra for dApss and chains. Want a plug-n-play tool with access to 185 networks starting at $10 with no limits and full speed? Try NodeCloud. Want full control over your stack in an open source, on-premise package? Join the NodeCore waitlist, launching fall '25.",
+  "websites":[
+    {
+      "url": "https://drpc.org",
+      "description": "Official website"
+    }
+  ],
+  "contracts": [],
+  "categories": [
+    "infra",
+    "tool"
+  ],
+  "email": "support@drpc.org",
+  "social": {
+    "x": "https://x.com/drpcorg",
+    "discord": "https://drpc.org/discord"
+  }
+}
