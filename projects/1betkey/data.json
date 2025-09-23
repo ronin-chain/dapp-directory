@@ -13,19 +13,9 @@
   ],
   "contracts": [
     {
-      "address": "0xE1Ed8Dc6aE5183CF26fC4c4e11A5f8C770188646",
-      "label": "BetKey Base Mainnet",
-      "description": "Main betting contract on Base network with Chainlink VRF integration"
-    },
-    {
       "address": "0x55fc6df40e8e9baea2926838932e50de350ec629",
       "label": "BetKey Ronin Mainnet",
       "description": "Main betting contract on Ronin network for gaming community"
-    },
-    {
-      "address": "0x574C8c7906C4ed122CFB5574fE6aC7aB3Db1B1ED",
-      "label": "BetKey Base Sepolia Testnet",
-      "description": "Testing contract on Base Sepolia for development and testing"
     }
   ],
   "categories": [
