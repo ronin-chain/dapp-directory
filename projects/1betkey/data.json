@@ -3,7 +3,7 @@
   "description": "Provably fair crypto betting games powered by Chainlink VRF. Secure blockchain casino with transparent, verifiable results offering custom seeds, multiple repetitions, and fair randomness across multiple networks.",
   "websites": [
     {
-      "url": "https://1betkey.com",
+      "url": "https://1betkey.com/?chain=ronin",
       "description": "Main betting platform for provably fair crypto games"
     },
     {
