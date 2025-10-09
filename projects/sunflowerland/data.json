@@ -1,0 +1,23 @@
+{
+  "name": "Sunflower Land",
+  "description": "Plant crops, raise animals, complete quests, and trade with thousands of other players across the world.",
+  "websites": [
+    {
+      "url": "https://sunflower-land.com",
+      "description": "Official Website of Sunflower Land"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+      "label": "FLOWER",
+      "description": "FLOWER is the native token of Sunflower Land"
+    }
+  ],
+  "categories": ["game"],
+  "social": {
+    "x": "https://x.com/0xSunflowerLand",
+    "discord": "https://discord.gg/sunflowerland",
+    "linkedin": "https://linkedin.com/company/thought-farm"
+  }
+}
