@@ -1,0 +1,42 @@
+{
+  "name": "Proleague",
+"description": "ProLeague is a web3 infrastructure gaming platform that provides gamers automation of tournaments, leaderboards, leagues, matchmaking, and instant payouts. ProLeague is the first multisided platform hub for Brands, Developers, Content Creators, Tournament Organizers, Guilds, and teams to unite and exchange value. The legacy Esports platform technology needs a revamp focusing on the players functionality first. We cater to hyper-casual and esports titles.",
+  "websites":[
+    {
+      "url": "https://proleague.gg/",
+      "description":"Website"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x1113b1996DB6588d80962292B7362aA27250066e",
+      "label": "ProLeagueTournament",
+      "description": "This contract allows the creation of rounds-based tournaments with Proleague token entry fees and prizes, handles player joining/leaving, facilitates sponsorship, and manages the reporting and claiming of prizes for round winners, all while tracking player statistics on an on-chain leaderboard."
+    },
+    {
+      "address": "0xA3848fEB6c9DD60B00EAE0bb666175C9D88c6d92",
+      "label": "ProLeagueLeaderboard",
+      "description": "Organizers can create and manage competitive events with defined entry fees, durations, and prize pool structures. Players can join by paying the entry fee, and third parties can sponsor the events to boost the prize pool, all subject to a 20% platform fee. The organizer (or their assigned admins) is responsible for concluding the leaderboard after its duration and distributing the collected funds to the verified winners."
+    },
+    {
+      "address": "0x191dEeE0C0473ec2185E1a2c877c46bA80d02Eab",
+      "label": "ProLeagueTreasury",
+      "description": "The treasury contracts acts as the central financial hub for ProLeague tournaments on the Ronin Network, managing the flow of funds from entry fees and sponsorships. It defines and applies a flexible fee structure (platform, creator, sponsor, and treasury) to all tournament income, tracking and segregating the resulting fees for later withdrawal by the platform owner and creators. The contract also handles the creation and distribution of sponsor pools, serving as a secure, authorized intermediary for all fee collection and distribution."
+    }
+  ],
+  "categories": [
+    "infra",
+    "dao",
+    "defi",
+    "game",
+    "nft",
+    "marketplace"
+  ],
+  "email": "justin@proleague.gg",
+  "social": {
+    "x": "x.com/proleaguegg",
+    "discord": "discord.gg/proleague",
+    "telegram" : "https://t.me/+mtXsoYVAWJI2NTMx",
+    "linkedin" : "https://www.linkedin.com/company/proleaguegg/?viewAsMember=true"
+  }
+}
