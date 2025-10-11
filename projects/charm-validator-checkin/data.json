@@ -1,0 +1,23 @@
+{
+  "name": "Charm Validator Check-In",
+  "description": "Upgradeable proxy for validator streak tracking and shimmer logic",
+  "websites": [
+    {
+      "url": "https://charm-validator-dashboard.vercel.app",
+      "description": "Live validator dashboard"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xcd4f1cd738cf862995239b5b7d9ff09cffc22399",
+      "label": "CheckIn Proxy",
+      "description": "Routes to logic contract for validator presence"
+    },
+    {
+      "address": "0xecd0ddffbf40129a25e0f7950de92c9ae3e1aad7",
+      "label": "CheckIn Logic",
+      "description": "Contains streak, history, and heartbeat functions"
+    }
+  ],
+  "categories": ["infra", "tool", "marketplace"]
+}
