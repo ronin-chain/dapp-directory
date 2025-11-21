@@ -1,0 +1,21 @@
+{
+  "name": "Ronin Strategy",
+  "description": "Automated NFT trading strategies that buy floor NFTs and sell them for profit. Start with Ronke.",
+  "websites": [
+    {
+      "url": "https://ronin-strategy.fun",
+      "description": "Official Ronin Strategy website"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xb3af527dcfa679f98a989f45c01a01cdd9b383dd",
+      "label": "Strategy Factory Contract",
+      "description": "Contract used to deploy new strategies in Ronin Strategy ecosystem."
+    }
+  ],
+  "categories": ["defi",  "nft", "tool", "marketplace"],
+  "social": {
+    "x": "https://x.com/RonkeOnRon"
+  }
+}
