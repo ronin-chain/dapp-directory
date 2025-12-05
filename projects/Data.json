@@ -1,0 +1,24 @@
+{
+  "name": "Charm Forwarder",
+  "description": "Validator capsule integrating ERC-721 and ERC-1155 receivers with custom forwarding logic.",
+  "websites": [
+    {
+      "url": "https://etherscan.io/address/0x7E761780B78717E297314AA0bEb83B5B53f4Ee89",
+      "description": "Contract Explorer"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x7E761780B78717E297314AA0bEb83B5B53f4Ee89",
+      "label": "Forwarder",
+      "description": "ERC-165 compliant Forwarder contract"
+    }
+  ],
+  "categories": ["infra", "security", "tool"],
+  "email": "kyawzayya4788@gmail.com",
+  "social": {
+    "x": "https://x.com/charmjoe71",
+    "telegram": "https://t.me/charmjoe1"
+  }
+}
+
