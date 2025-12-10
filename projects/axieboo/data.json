@@ -1,0 +1,16 @@
+{
+  "name": "Axieboo",
+  "description": "Sales history and mementos calculator for the Axie Infinity ecossystem",
+  "websites": [
+    {
+      "url": "https://axieboo.com",
+      "description": "Axieboo site"
+    }
+  ],
+  "contracts": [],
+  "categories": ["mementos", "tools", "sell_data", "marketplace"],
+  "social": {
+    "x": "https://x.com/DanibooNft",
+    "discord": "https://discord.gg/mK8nvfKG"
+  }
+}
