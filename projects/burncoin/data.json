@@ -5,38 +5,16 @@
     {
       "url": "https://burncoin.tech",
       "description": "Official Burncoin website and platform"
+    },
+    {
+      "url": "https://burncoin.tech/burningpaper",
+      "description": "Burncoin whitepaper - comprehensive project documentation"
     }
   ],
-  "contracts": [
-    {
-      "address": "0x1846a250A7fA903390199CC3b246517307E93B0D",
-      "label": "ERC20 $BURN Contract",
-      "description": "The ERC20 contract for $BURN tokens, supporting transfers and basic token utilities."
-    },
-    {
-      "address": "0xC002Ae3c4258951F405bdf27eee3813C54895B6D",
-      "label": "ERC1155 Contract",
-      "description": "The ERC1155 contract representing in-game items or assets, supporting batch operations."
-    },
-    {
-      "address": "0x7e2e235AE52F42fBFf4631a4bf87Ac99360E7502",
-      "label": "Game Contract",
-      "description": "Handles the claiming system for rewards and game mechanics."
-    },
-    {
-      "address": "0x8f740E7565Ea97d3417e64E1e99A15731b9654Ef",
-      "label": "Lock Contract",
-      "description": "Manages the lock and unlock mechanism for $BURN tokens."
-    },
-    {
-      "address": "0x79C5C98fefC1754E29BC1BEC88b94D0a8C3117e3",
-      "label": "NFT Contract",
-      "description": "Handles staking and upgrading of miners."
-    }
-  ],
+  "contracts": [],
   "categories": ["game"],
   "social": {
     "x": "https://x.com/burncoinronin",
-    "discord": "http://discord.gg/Cvtn9ugdTU"
+    "discord": "https://discord.com/invite/burncoin"
   }
 }
