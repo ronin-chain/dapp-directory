@@ -11,7 +11,7 @@
     {
       "address": "0x56418E06A569ce559b457F533A4f8D9D51a27cA8",
       "label": "OreGame",
-      "description": "This ERC20 contact manage the whole rORE infrastructure"
+      "description": "This ERC20 contract manage the whole rORE infrastructure."
     }
   ],
   "categories": [
