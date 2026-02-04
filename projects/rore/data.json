@@ -1,0 +1,30 @@
+{
+  "name": "rORE",
+  "description": "A new approach to mining that captures value, limits inflation, and redistributes supply to longterm holders through an innovative game of probability and strategy",
+  "websites":[
+    {
+      "url": "https://rore.supply",
+      "description":"rORE official website"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x56418E06A569ce559b457F533A4f8D9D51a27cA8",
+      "label": "OreGame",
+      "description": "This ERC20 contact manage the whole rORE infrastructure"
+    }
+  ],
+  "categories": [
+    "bot",
+    "defi",
+    "infra",
+    "social",
+    "game", 
+    "tool"
+  ],
+  "email": "contact@rore.supply",
+  "social": {
+    "x": "https://x.com/roresupply",
+    "discord": "https://discord.com/invite/PeEvhbkYEF"
+  }
+}
