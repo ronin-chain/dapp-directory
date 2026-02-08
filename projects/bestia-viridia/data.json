@@ -1,0 +1,23 @@
+{
+  "name": "Bestia Viridia",
+  "description": "A cozy multiplayer classic RPG where you can catch and collect monsters, build your own farm, craft unique items, and shape the economy with your choices. Grow, trade, explore, and uncover the secrets that lie beneath the world.",
+  "websites":[
+    {
+      "url": "https://bestiaviridia.com",
+      "description":"Official Website of Bestia Viridia"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xb1f31eAF667e9665b843137222c9DdcD499E58FC",
+      "label": "Bestia Viridia Land",
+      "description": "Bestia Viridia Land Collections."
+    }
+  ],
+  "categories": ["game"],
+  "email": "support@bestiaviridia.com",
+  "social": {
+    "x": "https://x.com/BestiaViridia",
+    "discord": "https://discord.com/invite/XtWhbfAFmU"
+  }
+}
