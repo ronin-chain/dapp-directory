@@ -1,0 +1,25 @@
+{
+  "name": "Chain Table",
+  "description": "A decentralized UNO gaming platform built on blockchain, where players can create and join public, private, or cryptocurrency lobbies with real prizes.",
+  "websites":[
+    {
+      "url": "https://chain-table.alva-p.xyz",
+      "description":"Chain-Table Website"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x6Fa5163DFe0e5847CE27b0574A9A7885f4bAD25c",
+      "label": "Paid Lobby",
+      "description": "Only for degens"
+    }
+  ],
+  "categories": [
+    "defi",
+    "social",
+    "game"
+  ],
+  "social": {
+    "x": "https://x.com/Chain_Table"
+  }
+}
