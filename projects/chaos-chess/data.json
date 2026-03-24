@@ -1,0 +1,27 @@
+{
+  "name": "Chaos Chess",
+  "description": "Chess, Evolved!  Player against AI or multiplayer as you deploy Champions to help you dominate the chess board!",
+  "websites":[
+    {
+      "url": "https://www.chaoschess.online",
+      "description":"The website home to Chaos Chess, featuring Champion NFT pieces and exciting mid-game chaotic events!"
+    },
+  ],
+  "contracts": [
+    {
+      "address": "0x525eb00f91d0a9dabe3e3254d19cb55a2780861f",
+      "label": "NFT Contract Address",
+      "description": "This contract handles purchases and deployments of NFT pieces."
+    },
+  ],
+  "categories": [
+    "game",
+    "strategy",
+    "collection",
+    "social",
+    "chess", 
+    "nft",
+    "marketplace",
+    "music"
+  ],
+}
