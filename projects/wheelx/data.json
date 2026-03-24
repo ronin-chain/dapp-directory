@@ -1,0 +1,32 @@
+{
+  "name": "WheelX",
+  "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains",
+  "websites":[
+    {
+      "url": "https://wheelx.fi",
+      "description":"WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0x7eC9672678509a574F6305F112a7E3703845a98b",
+      "label": "Approval Proxy",
+      "description": "Proxy contract to handle token approvals for WheelX"
+    },
+    {
+      "address": "0x6222f99443A0d75bd96d40F2904606f60f37cdc2",
+      "label": "Router",
+      "description": "Main router contract for facilitating cross-chain swaps on WheelX"
+    }
+  ],
+  "categories": [
+    "defi",
+    "infra"
+  ],
+  "email": "support@wheelx.fi",
+  "social": {
+    "x": "https://x.com/WheelX_fi",
+    "discord": "https://discord.gg/GaqW8QEVTF"
+
+  }
+}
