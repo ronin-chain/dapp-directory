@@ -1,0 +1,16 @@
+{
+  "name": "Axieboo",
+  "description": "The premium analytics and marketplace terminal for the Axie Infinity ecosystem. High-fidelity tracking, real-time sales, and advanced portfolio management.",
+  "websites": [
+    {
+      "url": "https://axieboo.com",
+      "description": "Axieboo site"
+    }
+  ],
+  "contracts": [],
+  "categories": ["mementos", "tools", "sell_data", "marketplace"],
+  "social": {
+    "x": "https://x.com/DanibooNft",
+    "discord": "https://discord.gg/mK8nvfKG"
+  }
+}
