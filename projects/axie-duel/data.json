@@ -1,0 +1,17 @@
+{
+  "name": "Axie Duel",
+  "description": "Fan-made tactical trading card game on Ronin that turns Axies into playable cards. Yu-Gi-Oh!-style duels, deck building, daily quests and ranked PvP. Free to play, guest mode in seconds, optional Ronin Waypoint login to sync your Axie NFTs as cards. Not affiliated with Sky Mavis or Axie Infinity.",
+  "websites": [
+    {
+      "url": "https://axie-duel.vercel.app",
+      "description": "Play Axie Duel"
+    }
+  ],
+  "contracts": [],
+  "categories": [
+    "game"
+  ],
+  "social": {
+    "x": "https://x.com/IssaYarur"
+  }
+}
