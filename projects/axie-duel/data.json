@@ -1,17 +1,25 @@
 {
-  "name": "Axie Duel",
-  "description": "Fan-made tactical trading card game on Ronin that turns Axies into playable cards. Yu-Gi-Oh!-style duels, deck building, daily quests and ranked PvP. Free to play, guest mode in seconds, optional Ronin Waypoint login to sync your Axie NFTs as cards. Not affiliated with Sky Mavis or Axie Infinity.",
-  "websites": [
-    {
-      "url": "https://axie-duel.vercel.app",
-      "description": "Play Axie Duel"
-    }
-  ],
-  "contracts": [],
-  "categories": [
-    "game"
-  ],
-  "social": {
-    "x": "https://x.com/IssaYarur"
-  }
+	"name": "Axie Duel",
+	"description": "A free-to-play tactical TCG where your Axie NFTs become Yu-Gi-Oh-style battle cards. Play instantly in the browser with no wallet required to start, take on a story campaign set in Lunacia, duel in PvE and PvP, and collect on-chain Spell and Trap card NFTs on Ronin. Fan-made and not affiliated with Sky Mavis.",
+	"websites": [
+		{
+			"url": "https://axie-duel.vercel.app",
+			"description": "Play Axie Duel free in your browser - no install, no wallet needed to try. Turn your Axies into battle cards and duel through a Lunacia campaign, PvE and PvP."
+		}
+	],
+	"contracts": [
+		{
+			"label": "Axie Duel Cards",
+			"address": "0x47C15618118A9269bdCD1271C748440A96F3B5f0",
+			"description": "ERC-721 collection of in-game Spell and Trap cards (burnable), minted on Ronin for Axie Duel."
+		}
+	],
+	"categories": [
+		"game",
+		"nft"
+	],
+	"email": "anuarissa117@gmail.com",
+	"social": {
+		"x": "https://x.com/issayarur"
+	}
 }
