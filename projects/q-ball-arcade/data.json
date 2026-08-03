@@ -1,0 +1,14 @@
+{
+  "name": "Q-Ball Arcade",
+  "description": "A mobile-first competitive billiards arcade for solo practice and real-time matches.",
+  "websites": [
+    {
+      "url": "https://playqball.com",
+      "description": "Official Q-Ball Arcade game"
+    }
+  ],
+  "contracts": [],
+  "categories": [
+    "game"
+  ]
+}
