@@ -1,0 +1,20 @@
+{
+  "name": "MineMineMine",
+  "description": "A free-to-start pixel mining game on Ronin. Mine blocks, forge pickaxes, climb the Season 1 board, and chase the Mythic Pickaxe. Season 1 Early Access is live; public launch is planned for Q4 2026. Guest play does not require a wallet.",
+  "websites": [
+    {
+      "url": "https://mineminemine.gg",
+      "description": "Official game and play page"
+    },
+    {
+      "url": "https://mineminemine.gg/docs",
+      "description": "Game docs"
+    }
+  ],
+  "contracts": [],
+  "categories": ["game"],
+  "email": "mineminemine.crypto@gmail.com",
+  "social": {
+    "x": "https://x.com/mmmp2e"
+  }
+}
