@@ -1,5 +1,14 @@
 # Ronin dApp Directory
 
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.** New submissions and pull requests are not accepted.
+>
+> Please use the **[Proof of Distribution portal](https://pod.roninchain.com/)** instead.
+
+The content below is kept for historical reference only.
+
+---
+
 This public repository serves as a collection of information for builders within the Ronin ecosystem, with the following use cases:
 * __Single Source of Information__ -  Key information from Ronin builders is consolidated in this repository. Analytics and tracking sites can integrate the repository into their workflows permissionlessly.
 * __Tracking Developer Metrics__ - A tracker for developer metrics within the Ronin ecosystem.
